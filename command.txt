@@ -1,3 +1,6 @@
 mkdir
 cd
-cd..
+
+java-version
+javac
+
