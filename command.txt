@@ -1,6 +1,9 @@
 mkdir
 cd
 
+java 
+beans
+
 java-version
 javac
 
