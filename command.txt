@@ -7,6 +7,11 @@ beans
 java-version
 javac
 
+
+amma
+appa
+
 ajja 
 ajji
+
 
