@@ -7,3 +7,6 @@ beans
 java-version
 javac
 
+ajja 
+ajji
+
